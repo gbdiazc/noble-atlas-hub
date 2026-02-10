@@ -15,7 +15,7 @@ sections:
     id: hero
     content:
       username: me
-      greeting: "Hi, I'm"
+      greeting: "Hello, I'm Gaby"
       show_status: true
       show_scroll_indicator: true
       typewriter:
